@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Manasi Narkhede 👋</h1>
 
 <h3 align="center">
-AI Engineer | Machine Learning Enthusiast | Building Intelligent Systems
+AI Engineer | Data Science and Machine Learning Enthusiast | Building Intelligent Systems
 </h3>
 
 <p align="center">
