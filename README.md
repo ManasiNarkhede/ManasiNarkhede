@@ -93,9 +93,10 @@ Developed an NLP pipeline that transcribes long-form podcasts, extracts entities
 - Retrieval-Augmented Generation (RAG)
 - Multimodal AI
 - Reinforcement Learning
-- AI Research
 
 ---
+
+## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -107,7 +108,6 @@ Developed an NLP pipeline that transcribes long-form podcasts, extracts entities
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ManasiNarkhede&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 <p align="center">
