@@ -16,7 +16,6 @@ Building AI-powered solutions that transform data into meaningful impact.
 
 ## 🚀 About Me
 
-- 🔭 Currently working on Multimodal Deep Learning and AI-powered prediction systems
 - 🤝 Open to collaborating on Machine Learning, NLP, Computer Vision, Generative AI, and Open Source projects
 - 🌱 Currently exploring Multimodal AI, Reinforcement Learning, and LLM Applications
 - 💬 Ask me about Python, Machine Learning, Deep Learning, RAG Systems, PyTorch, FastAPI, and AI Development
